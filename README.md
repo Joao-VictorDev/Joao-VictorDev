@@ -2,7 +2,7 @@
 
 Sou estudante de **Técnico em Informática** e estou aprendendo e desenvolvendo várias habilidades em programação, redes, banco de dados, e muito mais. Este repositório contém projetos que refletem o que estou aprendendo no curso e outros projetos pessoais.
 
-<h1>Linguagens de Programação</h1> 
+## Linguagens de Programação
   <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -13,17 +13,19 @@ Sou estudante de **Técnico em Informática** e estou aprendendo e desenvolvendo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-<h2>📊 Estatísticas do GitHub  </h2>
+## 📊 Estatísticas do GitHub
 
 <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-VictorDev&theme=tokyonight" />
 </p>
 
-<hr>
-Redes Conhecimento básico em redes de computadores  
-🔹 Protocolos TCP/IP  
-🔹 Configuração de roteadores, switches e firewalls  
-<hr/>
+## Conhecimento básico em redes de computadores
+<p align="left">
+  <img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="TCP/IP">
+  <img src="https://img.shields.io/badge/Firewalls-FF9900?style=for-the-badge&logo=windows-defender&logoColor=white" alt="Firewalls">
+  <img src="https://img.shields.io/badge/Routers-0000FF?style=for-the-badge&logo=network&logoColor=white" alt="Routers">
+  <img src="https://img.shields.io/badge/Switches-00B8F4?style=for-the-badge&logo=network&logoColor=white" alt="Switches">
+</p>
 
 ### Sistemas Operacionais  
 <p align="left">
@@ -31,13 +33,14 @@ Redes Conhecimento básico em redes de computadores
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
 
-<h2>Ferramentas</h2> 
+## Ferramentas 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows&logoColor=white" alt="CMD">
 </p>
 
 ## 📚 Projetos  
