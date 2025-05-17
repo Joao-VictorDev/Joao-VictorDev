@@ -1,6 +1,6 @@
 # Olá, eu sou João Victor! 👋
 
-Sou estudante de **Técnico em Informática** e estou aprendendo e desenvolvendo várias habilidades em programação, redes, banco de dados, e muito mais. Este repositório contém projetos que refletem o que estou aprendendo no curso e outros projetos pessoais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou aprendendo e desenvolvendo várias habilidades em programação, redes, banco de dados, e muito mais. Este repositório contém projetos que refletem o que estou aprendendo no curso e outros projetos pessoais.
 
 ## Linguagens de Programação
   <p align="left">
